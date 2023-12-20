@@ -1,3 +1,5 @@
+/*
+
 let wave1 = document.getElementById('wave1');
 let wave2 = document.getElementById('wave2');
 let wave3 = document.getElementById('wave3');
@@ -11,3 +13,5 @@ window.addEventListener('scroll', function(){
     wave3.style.backgroundPositionX = 30 + value * 1 +  'px';
     wave4.style.backgroundPositionX = 20 + value * -1 +  'px';
 });
+
+*/

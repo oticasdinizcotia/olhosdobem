@@ -131,7 +131,7 @@ section
 }
 .sec p
 {
-    font-size: 2em;
+    font-size: 100%;
     color: #111;
     align-content: center;
 
@@ -364,3 +364,11 @@ footer .wavefooter
     height: 20vh;
     width: 100%;
   }
+
+.circulofoto
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding-left: 70%;
+}
